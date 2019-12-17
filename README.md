@@ -1,3 +1,4 @@
+2
 # Oxford Comma List Formatter
 
 ## Objectives
